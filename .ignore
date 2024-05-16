@@ -1,0 +1,7 @@
+*.tmp
+~$*
+# Ignore all .xlsx~ files
+*.xlsx~
+
+# Ignore any temporary Excel files (including other potential temporary file patterns)
+~$*.xls*
