@@ -19,3 +19,24 @@
     "### Evaluación de la situación\n",
     "\n",
     "Definir la evaluación de la situación\n"
+
+
+
+ /// Columnas del data set 
+Index(['Año', 'DUA', 'Item del DUA', 'Fecha DUA', 'Aduana', 'Regimen',
+'Modalidad', 'Importador', 'Proveedor', 'Marca', 'Modelo', 'Factura',
+'Código SAC', 'CodSA', 'DescripcionPartida', 'Modo transporte',
+'País de Origen', 'Pais de Procedencia', 'Pais de Adquisición',
+'Cantidad', 'Unidad de Medida', 'Volúmen Físico', 'Cantidad de bultos',
+'Valor FOB US$', 'Valor FOB US$ por unidad', 'Costo flete US$',
+'Costo seguro US$', 'Valor CIF US$', 'Valor CIF US$  unitario',
+'Valor en Aduana US$', 'Peso neto Kg.', 'Peso bruto Kg.',
+'Peso bruto en Lbs.', 'Descripción de Mercancía', 'ID Declarante',
+'Declarante', 'ID Agente Aduanero', 'Agente aduanero',
+'ID Localización', 'Localización', '% IVA', 'Total IVA US$',
+'% Ley 6946', 'Total Ley 6946 US$', '% DAI', 'Total DAI US$',
+'COSTO por PROCOMER US$', '% S.C', 'Total SC US$',
+'Otros impuestos US$', 'Total de Impuestos',
+'Proporción Pr FOB / impuestos', 'Proporción VA / impuestos', 'Fecha',
+'Mes'],
+dtype='object')
