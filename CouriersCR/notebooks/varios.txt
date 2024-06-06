@@ -40,3 +40,4 @@ Index(['Año', 'DUA', 'Item del DUA', 'Fecha DUA', 'Aduana', 'Regimen',
 'Proporción Pr FOB / impuestos', 'Proporción VA / impuestos', 'Fecha',
 'Mes'],
 dtype='object')
+
